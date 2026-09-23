@@ -15,7 +15,7 @@ A **Skill** in Claude is an instruction set defined in standard Markdown (`SKILL
 
 ## Directory Structure
 ```text
-project-01-study-notes-skill/
+project-01/
 ├── .claude/
 │   └── skills/
 │       └── weekly-study-notes/

@@ -25,7 +25,7 @@ When reviewing any skill, inspect:
 
 ## Directory Structure
 ```text
-project-05-skill-security-audit/
+project-05/
 ├── .claude/
 │   └── skills/
 │       └── frontend-design/

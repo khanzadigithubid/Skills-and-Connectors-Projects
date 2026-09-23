@@ -17,7 +17,7 @@ This project demonstrates the **portability** of Claude Skills as an open standa
 
 ## Directory Structure
 ```text
-project-04-skill-portability-claude-code/
+project-04/
 ├── .claude/
 │   └── skills/
 │       └── weekly-study-notes/

@@ -21,7 +21,7 @@ This project combines the power of **Project 1** (Custom Skill) and **Project 2*
 
 ## Directory Structure
 ```text
-project-03-compound-skill-connector/
+project-03/
 ├── .claude/
 │   └── skills/
 │       └── weekly-study-notes/

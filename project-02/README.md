@@ -14,7 +14,7 @@ This project demonstrates connecting live data apps (Google Drive and Gmail) dir
 
 ## Directory Structure
 ```text
-project-02-connectors-drive-gmail/
+project-02/
 ├── .claude/
 │   └── connectors-config.md             # Security configuration & connector boundaries
 ├── inputs/
